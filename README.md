@@ -78,4 +78,6 @@ Open your web browser and navigate to:
 
 ---
 
-## 📂 Project Structure
+## 👤 Author
+Developed by **[U L R Kavindya]**
+*For educational purposes/University Project.*
